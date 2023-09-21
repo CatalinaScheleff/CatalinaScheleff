@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+Hi there, I'm Catalina, a beginner full-stack developer from Chile.
+
+As I dive into the world of web development, I'm dedicated to sharpening my skills. My passion is creating user-friendly web applications that deliver exceptional experiences.
+
+I thrive both in collaborative team settings and when working independently. I'm excited about the possibilities that web development offers and am always eager to learn and grow. And I'm currently on the lookout for a company that can nurture my growth as a full-stack developer
+
+Let's code and create something amazing together!
 
 <!--
 **CatalinaScheleff/CatalinaScheleff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
