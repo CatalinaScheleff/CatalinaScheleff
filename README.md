@@ -14,7 +14,7 @@ Let's code and create something amazing together!
 ![Azul y Amarillo Moderno Casero Fiestas y Celebraciones Marco en X Banner (2)](https://github.com/CatalinaScheleff/CatalinaScheleff/assets/122483646/8d3b31e7-dbdc-40e7-bc4a-e3ee70a8aeba)
 
 ### My stats ⭐
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CatalinaScheleff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CatalinaScheleff&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
 
 
 <!--
