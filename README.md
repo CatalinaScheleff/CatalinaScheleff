@@ -1,5 +1,5 @@
+<img width="100%" alt="Captura de pantalla 2024-02-13 a la(s) 16 06 10" src="https://github.com/CatalinaScheleff/CatalinaScheleff/assets/122483646/e44fd483-a21f-40ab-b2cc-3a5f48b3315e">
 
-![Azul y Amarillo Moderno Casero Fiestas y Celebraciones Marco en X Banner (1)](https://github.com/CatalinaScheleff/CatalinaScheleff/assets/122483646/6aedb831-c33c-4847-8dd4-8f0d651c99b3)
 ### Hello 👋
 
 I'm Catalina, a beginner full-stack developer from Chile.
@@ -11,7 +11,8 @@ I thrive in both collaborative team settings and when working independently. I'm
 Let's code and create something amazing together!
 
 ### My skills 📚
-![Azul y Amarillo Moderno Casero Fiestas y Celebraciones Marco en X Banner (2)](https://github.com/CatalinaScheleff/CatalinaScheleff/assets/122483646/8d3b31e7-dbdc-40e7-bc4a-e3ee70a8aeba)
+![Azul y Amarillo Moderno Casero Fiestas y Celebraciones Marco en X Banner (3)](https://github.com/CatalinaScheleff/CatalinaScheleff/assets/122483646/df3e7262-72b6-4be4-89a3-94023fe3a9ac)
+
 
 ### My stats ⭐
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CatalinaScheleff&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
